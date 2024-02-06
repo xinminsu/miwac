@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://memeseasoncoin.com</homePageLink>
+		<homePageLink>https://xinminsu.github.io/miwac</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://memeseasoncoin.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://memeseasoncoin.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://memeseasoncoin.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://memeseasoncoin.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://memeseasoncoin.com/index.php?rest_route=/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://xinminsu.github.io/miwac/xmlrpc0db0.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://xinminsu.github.io/miwac/xmlrpc0db0.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://xinminsu.github.io/miwac/xmlrpc0db0.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://xinminsu.github.io/miwac/xmlrpc0db0.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://xinminsu.github.io/miwac/index2373.php?rest_route=/" />
 			</apis>
 	</service>
 </rsd>
